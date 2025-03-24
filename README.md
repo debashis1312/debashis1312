@@ -14,7 +14,7 @@
 - Full-stack web applications  
 
 ## 📫 How to reach me  
-- **Email:** your-email@example.com  
+- **Email:** debashispaul1312@gmail.com  
 - **LinkedIn:** [Debashis Paul]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/debashis-paul-990201257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 - **GitHub:** [@debashis1312](https://github.com/debashis1312)  
 
