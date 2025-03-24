@@ -15,7 +15,7 @@
 
 ## 📫 How to reach me  
 - **Email:** debashispaul1312@gmail.com  
-- **LinkedIn:** [Debashis Paul]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/debashis-paul-990201257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- **LinkedIn:** ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/debashis-paul-990201257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 - **GitHub:** [@debashis1312](https://github.com/debashis1312)  
 
 ## 😀 Pronouns  
