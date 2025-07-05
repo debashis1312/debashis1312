@@ -1,17 +1,14 @@
 # Hi, I'm @debashis1312 👋  
 
-## 👀 I'm interested in  
-- Blockchain technology  
+## 👀 I'm interested in    
 - Full-stack web development  
 - Smart contracts & Solidity  
 
 ## 🌱 I'm currently learning  
 - Solidity for Ethereum smart contract development  
-- Advanced JavaScript & backend development  
+- Next js & backend development  
 
-## 💞️ I'm looking to collaborate on  
-- Blockchain-based projects  
-- Full-stack web applications  
+
 
 ## 📫 How to reach me  
 - **Email:** debashispaul1312@gmail.com  
